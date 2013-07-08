@@ -5,5 +5,6 @@
 ###
 
 define (require) ->
-  Test = require 'cs!Test'
-  console.log('main.coffee: APP READY');
+  test = require 'cs!Test'
+  console.log test.testFunc()
+  console.log 'main.coffee: APP READY'
