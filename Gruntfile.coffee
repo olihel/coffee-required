@@ -17,7 +17,7 @@ module.exports = (grunt) ->
     requirejs:
       compile:
         options:
-          mainConfigFile: 'src/index.js',
+          mainConfigFile: 'src/index.js'
 
 
   grunt.loadNpmTasks 'grunt-devserver'
