@@ -60,7 +60,7 @@ grunt.initConfig
 ```
 
 
-[![githalytics.com alpha](https://cruel-carlota.gopagoda.com/1b8f6c66b9178a8c7120383c63e2806e "githalytics.com")](http://githalytics.com/olihel/coffee-required)
+[![githalytics.com alpha](https://cruel-carlota.gopagoda.com/bc54a85f7f2a67d63411c2bcd6d0e86a "githalytics.com")](http://githalytics.com/olihel/coffee-required)
 
 <sub>**License**</sub>  
 <sub>The MIT License (MIT)</sub>  
